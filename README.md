@@ -22,7 +22,7 @@ What data exists in Windows.edb? :
  - Network Drive (When adding offline)
  - Favorites
  - File, Folder Information (Time, Contents(2KB), Path,...)
- - Activity History
+ - Activity History (Recently used programs, Windows 10 Timeline)
 
 Tips :
  - If you want to see URLs that users visited, Search for: "http://" or "https://"
